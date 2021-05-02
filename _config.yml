@@ -22,7 +22,7 @@ defaults:
 author:
   name   : "Subvenciones"
   avatar : "img/subvenciones.png"
-  bio    : "Vocabulario para la representación de datos sobre el sistema de bicicleta pública."
+  bio    : "Vocabulario para la representación de datos sobre subvenciones."
   links:
     - label: "Página web"
       icon: "fas fa-fw fa-link"
